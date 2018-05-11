@@ -14,7 +14,7 @@ cd 3DVis_FullyConnectNN
 
 Open the directory by WebStorm
 
-Click explore to build a local server to run the project
+Click explore to start a local server to run the project
 
 ![readme1](images/readme1.png)
 

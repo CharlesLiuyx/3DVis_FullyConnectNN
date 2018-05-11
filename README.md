@@ -20,5 +20,5 @@ Click explore to build a local server to run the project
 
 ## Preview
 
-
+![readme1](images/readme2.png)
 
